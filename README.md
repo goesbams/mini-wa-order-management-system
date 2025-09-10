@@ -75,3 +75,5 @@ WA -> Customer: Order Completed Notification
 
 @enduml
 ```
+
+![Order Flow Diagram](./wa-order-management-system.png)
